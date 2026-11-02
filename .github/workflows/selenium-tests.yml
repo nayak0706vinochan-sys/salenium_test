@@ -1,3 +1,5 @@
+name: Selenium Java Tests
+
 on:
   push:
     branches: [ "main" ]
